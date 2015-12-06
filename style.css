@@ -1,16 +1,39 @@
 body {
-    background-image: url("background.gif");
-    background-repeat: repeat;
+  background-image: url("grunge_floral_paper_texture_by_arghus.jpg");
+  background-size: cover;
+  /*background-repeat: repeat;*/
+  min-height: 100vh;
+  height: 100vh;
+  margin: 0;
+  overflow-y: scroll;
 }
 
-h1 {
-  color: white;
-  font-family: "Comic Sans MS", cursive;
-  font-size: 5em;
+#container {
+  background-color: #ffffe5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 800px;
+  margin: 0 auto;
+  height: 100%;
+  padding: 10px;
+}
+
+.title {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    font-size: 54px;
+    /*float: left;*/
+    margin-top: 9px;
+    /*margin-left: 39px;*/
 }
 
 p {
-  color: white;
-  font-family: "Comic Sans MS", cursive;
-  font-size: 3em;
+  color: black;
+  font-family: "Book Antiqua", Palatino, serif;
+  font-size: 2em;
+}
+
+.choice {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
