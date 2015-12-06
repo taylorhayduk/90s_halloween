@@ -1,6 +1,6 @@
-# 90s Style Halloween 
+# Choose your own adventure! 
 
-> The ninetyist super awesome Halloween website you ever saw.
+> Make the coolest, giphy-est, adventure game you can!
 
 
 ## Table of Contents
@@ -21,15 +21,14 @@
  - Clone repo
  - Setup floobits
  - Within the root directory, `bower install`
- - Make your changes (construct your awesome Halloween site!!)
+ - Make your changes (construct your awesome Adventure!!)
  - Submit pull request by 7:45pm PST
 
 ## How This Works
-> This website is an example of what you are going to be building.  Don't feel constrained by my theme, your only goal is to build something Halloween related that uses at least one of the required technologies (backbone, jquery or coffeescript).  The winning team will be chosen by popular vote and will receive some awesome Hack Reactor stickers!!
+> This website is an example of what you are going to be building.  Don't feel constrained by my theme, your only goal is to build something with a cool story that uses at least one of the required technologies (backbone, jquery or coffeescript).  The winning team will be chosen by popular vote and will receive some awesome Hack Reactor stickers!!
 
 ## Criteria
  - Must be PG-13
  - Must submit pull request on time
  - Must use at least backbone, jquery or coffeescript
- - Must have a Halloween theme!
  - Winners selected by popular vote
