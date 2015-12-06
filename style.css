@@ -1,16 +1,17 @@
 body {
-    background-image: url("background.gif");
-    background-repeat: repeat;
+    background-image: url("grunge_floral_paper_texture_by_arghus.jpg");
+    background-size: cover;
+    /*background-repeat: repeat;*/
 }
 
 h1 {
-  color: white;
+  color: black;
   font-family: "Comic Sans MS", cursive;
   font-size: 5em;
 }
 
 p {
-  color: white;
+  color: black;
   font-family: "Comic Sans MS", cursive;
   font-size: 3em;
 }
