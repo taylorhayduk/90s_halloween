@@ -32,6 +32,9 @@ p {
   color: black;
   font-family: "Book Antiqua", Palatino, serif;
   font-size: 2em;
+  /*color: white;*/
+  /*font-family: "Comic Sans MS", cursive;*/
+  /*font-size: 3em;*/
 }
 
 .choice {
